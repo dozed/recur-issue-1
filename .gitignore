@@ -1,0 +1,8 @@
+# build output
+dist
+out/
+__pycache__
+
+# IDE
+.idea
+*.iml
